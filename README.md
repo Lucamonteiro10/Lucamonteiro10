@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá 👋 Eu sou Luca Monteiro
 
-<!--
-**Lucamonteiro10/Lucamonteiro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou estudante de **Denvolvimento de Sistemas** no colegio Estadual central
 
-Here are some ideas to get you started:
+- 💻 um conhecimento breve em **python**
+- ☁️ estudo a linguaguem de **python**
+- 🔐 Interesso-me por **cibersegurança**, **redes neurais** e **inteligência artificial aplicada a sistemas críticos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Contato: [camluca1234@gmail.com) |
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucamonteiro10&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucamonteiro10&layout=compact&theme=tokyonight" />
+</p>
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+---
+
+<p align="center">
+ 
+</p>
+
