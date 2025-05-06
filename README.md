@@ -7,7 +7,7 @@ sou estudante de **Denvolvimento de Sistemas** no colegio Estadual central
 - 🔐 Interesso-me por **cibersegurança**, **redes neurais** e **inteligência artificial aplicada a sistemas críticos**.
 
 
-📫 Contato: [camluca1234@gmail.com) |
+📫 Contato: [camluca1234@gmail.com) 
 
 
 ## 📊 GitHub Stats
