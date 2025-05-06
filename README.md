@@ -3,7 +3,7 @@
 sou estudante de **Denvolvimento de Sistemas** no colegio Estadual central
 
 - 💻 um conhecimento breve em **python**
-- ☁️ estudo a linguaguem de **python**
+- ☁️ estudo a linguaguem de **python** e focado em aprender **HTML** e **java**
 - 🔐 Interesso-me por **cibersegurança**, **redes neurais** e **inteligência artificial aplicada a sistemas críticos**.
 
 
