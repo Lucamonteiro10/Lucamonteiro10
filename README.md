@@ -4,7 +4,9 @@ sou estudante de **Denvolvimento de Sistemas** no colegio Estadual central
 
 - 💻 um conhecimento breve em **python**
 - ☁️ estudo a linguaguem de **python** e focado em aprender **HTML** e **java**
-- 🔐 Interesso-me por **cibersegurança**, **redes neurais** e **inteligência artificial aplicada a sistemas críticos**.
+- 🔐 Interesso-me por **cibersegurança**,**inteligência artificial aplicada e desing**.
+- Trabalhei na parte de desing da interface no projeto do curso (**NutriScan**) um App feito da scanear objetos pelo **figma**.
+- 
 
 
 📫 Contato: [camluca1234@gmail.com) 
